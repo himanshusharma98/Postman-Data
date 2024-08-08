@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "course": "Postman API Testing",
+      "price":200,
+      "category": "JavaScript"
+      
+
+    },
+    {
+      "course": "Rest Assured API Testing",
+      "price":150,
+      "category": "Python"
+
+    },
+    {
+      "course": "Playwright Web UI Automation",
+      "price":100,
+      "category": "JavaScript"
+
+    },
+    {
+      "course": "Salenium Web Driver with Java",
+      "price":250,
+      "category": "JAVA"
+
+    }
+  ],
+  "count": 5,
+  "name": "rahulshettyacadmy"
+}
